@@ -1,0 +1,8 @@
+* {
+    font-family: 'Consolas';
+}
+
+pre {
+    display: inline-block;
+    color: #f00;
+}
